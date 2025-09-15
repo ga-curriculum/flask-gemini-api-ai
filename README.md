@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Flask AI</span>
 </h1>
 
 tktk To get started building out this module by doing a project wide find and replace of the following:
@@ -20,7 +20,13 @@ tktk Write a short but descriptive summary of the content in this module.
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
+| [Setup](./setup/README.md)  | 0 hr 0 min | Set up the development environment. |
 | [Lesson](./lesson/README.md)  | 0 hr 0 min | Set up the development environment. |
+| [Lesson](./lesson/README.md)  | 0 hr 0 min | Set up the development environment. |
+| [Lesson](./lesson/README.md)  | 0 hr 0 min | Set up the development environment. |
+| [Lesson](./lesson/README.md)  | 0 hr 0 min | Set up the development environment. |
+| [Lesson](./lesson/README.md)  | 0 hr 0 min | Set up the development environment. |
+
 
 ## Internal
 
