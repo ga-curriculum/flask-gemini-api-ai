@@ -61,6 +61,12 @@ Run the application from the terminal:
 python app.py
 ```
 
+or 
+
+```bash
+pipenv run python app.py
+```
+
 In your browser, send a request to `localhost:5000` to hit the `index` route.
 
 Open the contents of the directory in VSCode:

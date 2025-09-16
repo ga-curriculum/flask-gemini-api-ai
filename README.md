@@ -22,10 +22,14 @@ tktk Write a short but descriptive summary of the content in this module.
 | ------ |:------------------:| ------ |
 | [Setup](./setup/README.md)  | 0 hr 0 min | Set up the development environment. |
 | [Lesson](./lesson/README.md)  | 0 hr 0 min | Set up the development environment. |
+| [Api Key](./api-key/README.md)  | 0 hr 0 min | Set up the development environment. |
+| [Dotenv](./dotenv/README.md)  | 0 hr 0 min | Set up the development environment. |
+| [Gemini Quickstart](./quickstart/README.md)  | 0 hr 0 min | Set up the development environment. |
+| [Turnoff thinking](./disable-thinking/README.md)  | 0 hr 0 min | Set up the development environment. |
+| [Create Route](./create-route/README.md)  | 0 hr 0 min | Set up the development environment. |
 | [Lesson](./lesson/README.md)  | 0 hr 0 min | Set up the development environment. |
 | [Lesson](./lesson/README.md)  | 0 hr 0 min | Set up the development environment. |
-| [Lesson](./lesson/README.md)  | 0 hr 0 min | Set up the development environment. |
-| [Lesson](./lesson/README.md)  | 0 hr 0 min | Set up the development environment. |
+
 
 
 ## Internal
