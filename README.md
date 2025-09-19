@@ -21,7 +21,7 @@ Students will also implement endpoints that connect to the Gemini AI API.
 | [Gemini Quickstart](./quickstart/README.md)  | Add the Gemini SDK to Flask |
 | [Tokens and the "Thinking" Feature](./disable-thinking/README.md)  | Optimize to save token usage |
 | [Use Postman to Send Requests](./postman/README.md)  | Reafctor the AI route to use Postman |
-| [Create a Weather Route](./weather/README.md)  | Create a 2nd route for weather |
+| [Additional Practice](./practice/README.md)  | Create a 2nd route for weather |
 
 
 ## Internal
@@ -34,6 +34,10 @@ Students will also implement endpoints that connect to the Gemini AI API.
 
 - [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/flask-api-pets-back-end/canvas-landing-pages/seb.html)
 - [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/flask-api-pets-back-end/canvas-landing-pages/fallback.html)
+
+### Solution
+
+- [Solution With Unit Tests](./flask-gemini-api-ai-solution/)
 
 ### Resources
 
