@@ -1,60 +1,39 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Flask AI</span>
+  <span class="headline">Flask API With Gemini AI</span>
 </h1>
-
-tktk To get started building out this module by doing a project wide find and replace of the following:
-
-- [tktk Headline] - Replace with the full title of this module.
-- tktk-module-name - Replace with the full title of this module, written in kebab-case (all lowercase, words separated by hyphens). This should be identical to the name of the repo name for this module on GitHub.
-
-This README file should be internal-facing only, and should not be shared with students.
-
-The `canvas-landing-pages/landing.md` file is the landing page that students will see in Canvas (or however else this repository is served). It should contain the **About** and **Content** sections copied from below. When you do this, ensure you change the file path from `./lesson/README.md` to `../lesson/README.md`. The content in the **Internal** section should not be shared with students.
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+In this module, students will practice the fundamental operations Flask. They will explore techniques for managing cross-origin resource sharing (CORS), allowing their APIs to safely interact with resources from various domains.
+
+Additionally, they will gain hands-on practice with Postman to test API functionality under different scenarios. By the end of this module, students will be equipped with the essential skills to develop and maintain a fully functional API in Flask.
+
+Students will also implement endpoints that connect to the Gemini AI API.
 
 ## Content
 
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)  | 0 hr 0 min | Set up the development environment. |
-| [Lesson](./lesson/README.md)  | 0 hr 0 min | Set up the development environment. |
-| [Api Key](./api-key/README.md)  | 0 hr 0 min | Set up the development environment. |
-| [Dotenv](./dotenv/README.md)  | 0 hr 0 min | Set up the development environment. |
-| [Gemini Quickstart](./quickstart/README.md)  | 0 hr 0 min | Set up the development environment. |
-| [Turnoff thinking](./disable-thinking/README.md)  | 0 hr 0 min | Set up the development environment. |
-| [Create Route](./create-route/README.md)  | 0 hr 0 min | Set up the development environment. |
-| [Lesson](./lesson/README.md)  | 0 hr 0 min | Set up the development environment. |
-| [Lesson](./lesson/README.md)  | 0 hr 0 min | Set up the development environment. |
-
+| Lesson |  Skills |
+| ------ | ------ |
+| [Setup](./setup/README.md)  |  Set up the development environment. |
+| [Gemini Into and Api Key](./api-key/README.md)  | Generate a Gemini Api Key |
+| [Add Dot Env to Flask](./dotenv/README.md)  | Install Dot Env |
+| [Gemini Quickstart](./quickstart/README.md)  | Add the Gemini SDK to Flask |
+| [Tokens and the "Thinking" Feature](./disable-thinking/README.md)  | Optimize to save token usage |
+| [Use Postman to Send Requests](./postman/README.md)  | Reafctor the AI route to use Postman |
+| [Create a Weather Route](./weather/README.md)  | Create a 2nd route for weather |
 
 
 ## Internal
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
+- Intro to Flask
 
-### Starter code
+### Course landing pages
 
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Course landing page
-
-- [Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/landing.html)
+- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/flask-api-pets-back-end/canvas-landing-pages/seb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/flask-api-pets-back-end/canvas-landing-pages/fallback.html)
 
 ### Resources
 

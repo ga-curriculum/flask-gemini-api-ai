@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Dot Env</span>
+  <span class="headline">Add Dot Env to Flask</span>
   <span class="subhead">Lesson</span>
 </h1>
 
@@ -10,8 +10,9 @@
 - [Gemini API quickstart](https://ai.google.dev/gemini-api/docs/quickstart)
 - [Test](https://aistudio.google.com/app/apikey?_gl=1*yfj1cc*_ga*NzAyMTQ5NDA3LjE3NTc5NjkzODQ.*_ga_P1DBVKWT6V*czE3NTc5NjkzODMkbzEkZzEkdDE3NTc5Njk5MTMkajYwJGwwJGgxOTQ5MDI4OTI0)
 
+We don't want to hard code our Gemini API Key for security reasons. We'll use a package called `dotenv` to hide the key in  development.
 
-In our initial setup, we installed `psycopg2`, a popular PostgreSQL Python driver, and `python-dotenv` for storing our connection credentials securely in a `.env` file. Let's make use of these packages in our Flask application now.
+In a previous setup, we installed `python-dotenv` for storing our Postgresql connection credentials securely in a `.env` file. Let's make use of that package in our Flask application now.
 
 Install the package:
 
@@ -25,13 +26,13 @@ First create the `.env` file:
 touch .env
 ```
 
-Within the `.env`, add your local PostgreSQL credentials like so:
+Within the `.env`, add your GEMINI_API_KEY like so:
 
 ```plaintext
 GEMINI_API_KEY='AIzaSyBpj2hUOrj_ObGo2z1bWGtLSjoFVU1mc3o'
 ```
 
-To access these environment variables, we'll need to add an import in `app.py`:
+To access these environment variables, we'll need to add an import to the top of `app.py`:
 
 ```python
 # app.py
@@ -50,6 +51,4 @@ app = Flask(__name__)
 
 > 💡 By default, `load_dotenv()` looks for a file named `.env` in the current directory. It loads the environment variables defined in that file, and makes them accessible through `os.environ`. 
 
-With our environment variables accessible, we can build out a connection to our database. We can consult the [Psycopg documentation](https://www.psycopg.org/docs/usage.html) for basic guidance on connecting to our PostgreSQL database from Python.
-
-
+With our environment variables accessible, we can build out a connection to Gemini.
