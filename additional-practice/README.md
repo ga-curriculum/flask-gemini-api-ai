@@ -25,7 +25,7 @@ Here is a prompt to get started generating some unit tests: `generate unit tests
 
 <br>
 
-## Add another Route and implenet another service
+## Add another Route and implement another service
 
 - [Welcome to the Gemini API Cookbook](https://github.com/google-gemini/cookbook/tree/main)
 - [Gemini API Quickstart - Python](https://github.com/google-gemini/gemini-api-quickstart)
