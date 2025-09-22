@@ -7,11 +7,23 @@
 
 [Follow the React AI Lesson to buid a front end for your Flask Gemini API App.](https://git.generalassemb.ly/modular-curriculum-all-courses/fetching-data-in-react-lab-ai)
 
-Or, try generating a fronend using [vO.app](https://v0.app/)
+Or, try generating a frontend using [vO.app](https://v0.app/)
+
+<br>
+
+## Create a React Frontend for the Flask Pets API App
+
+[Follow the React AI Lesson to buid a front end for your Flask Gemini API App.](https://git.generalassemb.ly/modular-curriculum-all-courses/flask-api-pets-back-end)
+
+Or, try generating a frontend using [vO.app](https://v0.app/)
+
+<br>
 
 ## Add Unit Tests Using GitHub Copilot
 
-Here is a prompot I used to generate some unit tests: `generate unit tests for the routes in app.py`
+Here is a prompt to get started generating some unit tests: `generate unit tests for the routes in app.py`
+
+<br>
 
 ## Add another Route and implenet another service
 

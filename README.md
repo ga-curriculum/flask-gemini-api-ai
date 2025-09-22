@@ -21,7 +21,7 @@ Students will also implement endpoints that connect to the Gemini AI API.
 | [Gemini Quickstart](./quickstart/README.md)  | Add the Gemini SDK to Flask |
 | [Tokens and the "Thinking" Feature](./disable-thinking/README.md)  | Optimize to save token usage |
 | [Use Postman to Send Requests](./postman/README.md)  | Reafctor the AI route to use Postman |
-| [Additional Practice](./practice/README.md)  | Create a 2nd route for weather |
+| [Additional Practice](./additional-practice/README.md)  | Extra Challenges |
 
 
 ## Internal
