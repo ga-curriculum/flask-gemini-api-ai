@@ -3,7 +3,7 @@
   <span class="subhead"></span>
 </h1>
 
-Now that you've built a Flask application that sends requests to the Gemini API, here are a few additional challenges. Choose whatever challenge (or challenges) interest you the most.
+Now that you've built a Flask application that sends requests to the Gemini API, here are a few additional challenges. Choose whatever challenge(s) interest you the most.
 
 ## Option #1: Create a React Frontend for the Flask Gemini API AI App
 
