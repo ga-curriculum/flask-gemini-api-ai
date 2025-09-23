@@ -1,18 +1,13 @@
 <h1>
-  <span class="headline">Add Dot Env to Flask</span>
-  <span class="subhead">Lesson</span>
+  <span class="headline">Add dotenv to Flask</span>
+  <span class="subhead"></span>
 </h1>
 
-## Setup
-
-- [Python Genai Codegen Instructions](https://github.com/googleapis/python-genai/blob/main/codegen_instructions.md)
-- [Gemini Developer API](https://ai.google.dev/gemini-api/docs)
-- [Gemini API quickstart](https://ai.google.dev/gemini-api/docs/quickstart)
-- [Test](https://aistudio.google.com/app/apikey?_gl=1*yfj1cc*_ga*NzAyMTQ5NDA3LjE3NTc5NjkzODQ.*_ga_P1DBVKWT6V*czE3NTc5NjkzODMkbzEkZzEkdDE3NTc5Njk5MTMkajYwJGwwJGgxOTQ5MDI4OTI0)
+## Install `dotenv`
 
 We don't want to hard code our Gemini API Key for security reasons. We'll use a package called `dotenv` to hide the key in  development.
 
-In a previous setup, we installed `python-dotenv` for storing our Postgresql connection credentials securely in a `.env` file. Let's make use of that package in our Flask application now.
+In a previous lesson setup, we installed `python-dotenv` for storing our Postgresql connection credentials securely in a `.env` file. Let's make use of that package in our Flask application now.
 
 Install the package:
 
