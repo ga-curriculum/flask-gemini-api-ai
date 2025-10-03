@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "[tktk Headline]",
-    "name": "tktk-module-name",
+    "friendlyName": "Flask API With Gemini AI",
+    "name": "flask-api-with-gemini-ai",
     "type": "Lesson",
     "about": "",
     "starterCode": "",
