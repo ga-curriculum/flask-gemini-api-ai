@@ -7,7 +7,7 @@ Now that you've built a Flask application that sends requests to the Gemini API,
 
 ## Option #1: Create a React Frontend for the Flask Gemini API AI App
 
-Use the [Fetching Data in React With GitHub Copilot Lab](https://git.generalassemb.ly/modular-curriculum-all-courses/fetching-data-in-react-lab-ai) as reference to build a React front end for the Flask Gemini API App you just built.
+Use the [Fetching Data in React With GitHub Copilot Lab](https://github.com/ga-curriculum/fetching-data-in-react-lab-ai) as reference to build a React front end for the Flask Gemini API App you just built.
 
 Your React application will need a form (or a text field and a submit button) so that a user can submit a query to the Gemini API.
 
@@ -17,7 +17,7 @@ Or, generate a React frontend using AI with [vO.app](https://v0.app/)
 
 ## Option #2: Create a React Frontend for the Flask Pets API App
 
-Use the [Fetching Data in React With GitHub Copilot Lab](https://git.generalassemb.ly/modular-curriculum-all-courses/fetching-data-in-react-lab-ai) as reference to build a React front end for your Flask API Pets Backend App.
+Use the [Fetching Data in React With GitHub Copilot Lab](https://github.com/ga-curriculum/fetching-data-in-react-lab-ai) as reference to build a React front end for your Flask API Pets Backend App.
 
 Or, generate a React frontend using AI with [vO.app](https://v0.app/)
 
