@@ -24,7 +24,7 @@ touch .env
 Within the `.env`, add your GEMINI_API_KEY like so:
 
 ```plaintext
-GEMINI_API_KEY='AIzaSyBpj2hUOrj_ObGo2z1bWGtLSjoFVU1mc3o'
+GEMINI_API_KEY='YOUR_GEMINI_API_KEY'
 ```
 
 To access these environment variables, we'll need to add an import to the top of `app.py`:
